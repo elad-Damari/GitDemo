@@ -18,7 +18,7 @@
 {
     [super viewDidLoad];
     
-    NSLog(@"Git");
+    NSLog(@"Hellow Git");
     
 }
 
